@@ -7,7 +7,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 
-##Liga de la justicia quiere jugar
+##Liga de la justicia quiera ganar
 
 ##Liga de la justicia
 
